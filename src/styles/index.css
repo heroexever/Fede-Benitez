@@ -1,0 +1,23 @@
+main h2 {
+  color: deeppink;
+}
+main h3 {
+  background-color: black;
+  color: aqua;
+}
+
+p {
+  text-align: justify;
+}
+
+p img {
+  width: 10%;
+  height: 10%;
+}
+
+video {
+  margin: auto;
+  width: 100%;
+  height: 100vh;
+  border: solid black;
+}
