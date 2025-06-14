@@ -1,0 +1,74 @@
+body {
+  background-color: black;
+  margin: auto;
+}
+
+main {
+  background-color: darkslategrey;
+  color: coral;
+}
+
+header {
+  margin: auto;
+  border: solid goldenrod;
+  background-color: darkred;
+  color: darkgoldenrod;
+}
+
+header img {
+  height: 75%;
+  width: 75%;
+}
+
+nav {
+  margin: auto;
+  border-style: solid;
+  border-width: 100%;
+  border-color: goldenrod;
+  color: rgb(255, 162, 0);
+}
+a {
+  color: darkgoldenrod;
+}
+
+section {
+  margin: auto;
+  border-width: 100%;
+  border-color: goldenrod;
+  border-style: solid;
+}
+
+h1 {
+  font-family: "WDXL Lubrifont TC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+}
+
+h3 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  text-align: center;
+}
+
+p {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: oblique;
+  text-align: left;
+  text-align: justify;
+  background-color: rgba(0, 0, 0, 0.251);
+  padding-inline: 5%;
+}
+
+img {
+  padding-inline: 5%;
+}
